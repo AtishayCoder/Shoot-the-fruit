@@ -19,3 +19,5 @@ def on_mouse_down(pos):
         quit()
 
 place_apple()
+
+# Use pgzrun main.py to play!
